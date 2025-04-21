@@ -1,21 +1,3 @@
-# Проект QA-trainee-assignment-spring-2025
-
-Привет! Меня зовут Иван. 
-
-В этом репозитории находится тестовое задание для отбора на стражировку в Авито по направлению QA-инженер.
-
-Ссылка на задание: [QA-trainee-assignment-spring-2025](https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/QA/QA-trainee-assignment-spring-2025/QA-trainee-assignment-spring-2025.md)
-
-# Структура проекта:
- - [TASK_1.md](./TASK_1.md) - решение задания 1
- - [QA_trainee](./QA_trainee) - проект с автотестами на языке Java для задания 2
- - [TESTCASES.md](./TESTCASES.md) - список тест-кейсов для проверки пользовательских сценариев для задания 2
- - [BUGS.md](./BUGS.md) - баг-репорт задания 2
-
----
-## Задание 1
-
-В данном задании нужно проанализировать скриншот страницы Авито с результатами поиска, перечислить все имеющиеся баги и указать их приоритет (high, medium, low).
 
 ## Задание 2
 
