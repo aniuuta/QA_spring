@@ -77,7 +77,7 @@ mvn -v
 Если у вас установлен Git, то воспользуйтесь командами ниже. Или скачайте ZIP-архив с GitHub и распакуйте его.
 
 ```bash
-git clone https://github.com/KudryashovIA/QA-trainee-assignment-spring-2025.git
+git clone 
 ```
 ```bash
 cd QA_trainee
